@@ -53,8 +53,11 @@ function loaderanimation(){
                     clearInterval(interval);
                 }
                 timer.textContent=count;
+                console.log(1)
                 count++;
             },25);
+                    // high 
+                    // low
 
             //
             }
