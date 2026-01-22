@@ -54,7 +54,7 @@ function loaderanimation(){
                 }
                 timer.textContent=count;
                 console.log(1)
-
+                //kknkl
 
                 //hihkjbj
                 //jbkjnkjb
