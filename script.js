@@ -56,7 +56,7 @@ function loaderanimation(){
                 console.log(1)
 
 
-                
+                //hihkjbj
                 count++;
             },25);
                     // high 
