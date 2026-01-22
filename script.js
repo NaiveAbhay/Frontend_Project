@@ -57,6 +57,7 @@ function loaderanimation(){
 
 
                 //hihkjbj
+                //jbkjnkjb
                 count++;
             },25);
                     // high 
