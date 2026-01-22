@@ -55,6 +55,8 @@ function loaderanimation(){
                 timer.textContent=count;
                 count++;
             },25);
+
+            //
             }
 
     })
