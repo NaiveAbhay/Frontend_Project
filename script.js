@@ -54,6 +54,9 @@ function loaderanimation(){
                 }
                 timer.textContent=count;
                 console.log(1)
+
+
+                
                 count++;
             },25);
                     // high 
