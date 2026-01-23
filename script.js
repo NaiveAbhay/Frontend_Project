@@ -55,7 +55,7 @@ function loaderanimation(){
                 timer.textContent=count;
                 console.log(1)
                 //kknkl
-
+                // i have solved this
                 //hihkjbj
                 //jbkjnkjb
                 count++;
