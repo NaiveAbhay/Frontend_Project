@@ -57,7 +57,7 @@ function loaderanimation(){
                 //kknkl
                 // i have solved
                 // issue fixed
-               
+               //fsef
                 count++;
             },25);
                     // high 
