@@ -57,8 +57,7 @@ function loaderanimation(){
                 //kknkl
                 // i have solved
                 // issue fixed
-                //hihkjbj
-                //jbkjnkjb
+               
                 count++;
             },25);
                     // high 
