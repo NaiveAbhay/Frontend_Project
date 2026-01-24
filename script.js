@@ -64,7 +64,7 @@ function loaderanimation(){
                     // low
                     // i have fixed the login
 
-                    // i have fixed it
+                    // i have fi
 
             //
             }
