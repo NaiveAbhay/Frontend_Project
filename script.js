@@ -62,6 +62,7 @@ function loaderanimation(){
             },25);
                     // high 
                     // low
+                    // i have fixed the login
 
             //
             }
